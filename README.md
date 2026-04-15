@@ -8,32 +8,28 @@ Objective
 
 To assess whether Treatment B is cost-effective compared to Treatment A at a willingness-to-pay threshold of £30,000 per QALY. 
 
-Methodology
-Model Type
-Markov cohort model
-
 Health States
-Progression-Free Survival (PFS)
-Progressed Disease (PD)
+Progression-Free Survival (PFS),
+Progressed Disease (PD),
 Death
 
 Key Inputs
-Transition probabilities (A vs B)
-Drug acquisition and medical costs
-Utility values per health state
-Cycle length and time horizon assumptions
+Transition probabilities (A vs B),
+Drug acquisition and medical costs,
+Utility values per health state,
+Cycle length and time horizon assumptions,
 
 Outputs
-Total lifetime costs treatment A and B 
-Total QALYs treatment A and B 
-Incremental Cost-Effectiveness Ratio (ICER)
-Cost-effectiveness decision based on ICER 
+Total lifetime costs treatment A and B, 
+Total QALYs treatment A and B, 
+Incremental Cost-Effectiveness Ratio (ICER), 
+Cost-effectiveness decision based on ICER
 
 Key Results
-Total cost (Treatment A):  £19,535.20 
-Total cost (Treatment B):  £113,877.59 
-QALYs (A): 16.14
-QALYs (B): 18.69
+Total cost (Treatment A):  £19,535.20,
+Total cost (Treatment B):  £113,877.59,
+QALYs (A): 16.14,
+QALYs (B): 18.69,
 ICER:  £37,036.12 
 
 Decision Rule
