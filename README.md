@@ -32,7 +32,7 @@ QALYs (A): 16.14,
 QALYs (B): 18.69,
 ICER:  £37,036.12 
 
-Decision Rule
+Decision Rule:
 Despite producing more QALYs, treatment B is not cost-effective. ICER is higher than the willingness to pay threshold of £30,000 per QALY. 
 
 ICER < Willingness-to-pay threshold
