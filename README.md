@@ -6,7 +6,7 @@ The analysis estimates total costs and health outcomes (QALYs) for each treatmen
 
 Objective
 
-To assess whether Treatment B is cost-effective compared to Treatment A by estimating the Incremental Cost-Effectiveness Ratio (ICER) and comparing it to a willingness-to-pay threshold of £30,000 per QALY. 
+To assess whether Treatment B is cost-effective compared to Treatment A at a willingness-to-pay threshold of £30,000 per QALY. 
 
 Methodology
 Model Type
@@ -24,18 +24,21 @@ Utility values per health state
 Cycle length and time horizon assumptions
 
 Outputs
-Total lifetime costs per treatment arm
-Total QALYs per treatment arm
+Total lifetime costs treatment A and B 
+Total QALYs treatment A and B 
 Incremental Cost-Effectiveness Ratio (ICER)
-Cost-effectiveness decision based on threshold analysis
-Key Results (fill in your values)
-Total cost (Treatment A): £X
-Total cost (Treatment B): £X
-QALYs (A): X
-QALYs (B): X
-ICER: £X per QALY gained
-Decision Rule
+Cost-effectiveness decision based on ICER 
 
-Treatment B is considered cost-effective if:
+Key Results
+Total cost (Treatment A):  £19,535.20 
+Total cost (Treatment B):  £113,877.59 
+QALYs (A): 16.14
+QALYs (B): 18.69
+ICER:  £37,036.12 
+
+Decision Rule
+Despite producing more QALYs, treatment B is not cost-effective. ICER is higher than the willingness to pay threshold of £30,000 per QALY. 
 
 ICER < Willingness-to-pay threshold
+
+QALYs are used alongside costs to estimate the cost per additional unit of health gained, informing whether a treatment provides good value for money.
