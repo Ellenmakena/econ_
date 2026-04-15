@@ -1,6 +1,6 @@
 Cost-Effectiveness Analysis: Treatment A vs Treatment B 
 
-This model evaluates the cost-effectiveness of two oncology treatment options(Treatment A and Treatment B) using a Markov model framework. The model simulates disease progression over time across three health states: Progression-Free Survival (PFS), Progressed Disease (PD), and Death.
+This model evaluates the cost-effectiveness of two oncology treatment options(Treatment A and Treatment B) using a Markov model. The model simulates disease progression over time across three health states: Progression-Free Survival (PFS), Progressed Disease (PD), and Death.
 
 The analysis estimates total costs and health outcomes (QALYs) for each treatment arm to determine which option provides better value for money under a defined willingness-to-pay threshold.
 
